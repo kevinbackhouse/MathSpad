@@ -71,7 +71,7 @@ dnl AC _ CHECK _ LIB ( socket ,  main )
 dnl Checks for header files.
 AC_HEADER_DIRENT
 AC_HEADER_STDC
-AC_CHECK_HEADERS(fcntl.h limits.h malloc.h sys/file.h unistd.h)
+AC_CHECK_HEADERS(fcntl.h limits.h sys/file.h unistd.h)
 
 dnl Checks for typedefs, structures, and compiler characteristics.
 AC_C_CONST

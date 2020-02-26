@@ -11,7 +11,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include <malloc.h>
 
 #define MAXPKCHAR 256
 #define MAX_COMMENT 256
